@@ -8,7 +8,7 @@ host: "dashboard"
 ingressSubdomain: ""
 
 image:
-  repository: ibmgaragecloud/developer-dashboard
+  repository: yarod/developer-dashboard
   tag: 1.0.21
   pullPolicy: IfNotPresent
   port: 3000
